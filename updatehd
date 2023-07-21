@@ -82,7 +82,8 @@ https://iplogger.com/199VTC5hdvbkhichtivi.m3u8
 https://iplogger.com/200VTC6hdvbkhichtivi.m3u8
 
 #EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_todaytv-vtc7_165649695627.png", VTC7 - TodayTV
-https://drm-livecdn.hplus.com.vn/CDN-FPT/TODAYTV-SD-ABR/HTV-ABR/TODAYTV-SD-720p/chunks.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/398/hd.m3u8
+#https://drm-livecdn.hplus.com.vn/CDN-FPT/TODAYTV-SD-ABR/HTV-ABR/TODAYTV-SD-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vtc8" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_165649434543.png", VTC8
 https://livecdn.fptplay.net/sdb/vtc8_2000.stream/chunklist.m3u8
