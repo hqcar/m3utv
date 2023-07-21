@@ -28,7 +28,8 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_165657496167.png", VTV8
-https://iplogger.com/115vkhichtvVTV8hd.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
+#https://iplogger.com/115vkhichtvVTV8hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9-hd_165657032671.png", VTV9
 https://iplogger.com/80khichtvVTV9HD.m3u8
