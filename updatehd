@@ -59,9 +59,8 @@ https://live-ali4.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vovtvhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_165655908288.png", VOV TV
-https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
-
-
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_165649330987.png", VTC1
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
