@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_165657381026.png", VTV1
 https://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
