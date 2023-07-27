@@ -292,6 +292,75 @@ https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 
 
 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1 HD - Hài
+http://14.187.237.144:8080/sctv/s7/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+#https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png", SCTV2 HD
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/112/logo26072108_sctv3-hd.png", SCTV3 HD - SEE TV
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/109/logo26072108_sctv4-hd.png", SCTV4 HD - Giải trí tổng hợp
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/11/logo26072108_sctv5.png", SCTV5 HD - SCJ
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 FHD
+https://1117979683.vnns.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 HD
+https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
+
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png", SCTV7 HD - Sân Khấu
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png", SCTV8 HD-VITV-Kinh tế Tài chính
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/129/logo26072108_sctv9-hd.png", SCTV9 HD - Phim Châu Á
+https://sg.tinchuanchuaanh.com/SCTV9/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/115/logo26072108_sctv10.png", SCTV10
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/130/logo26072108_sctv11-hd.png", SCTV11 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/17/logo26072108_sctv12-hd.png", SCTV12 HD - Du Lịch
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/114/logo26072108_sctv13-hd.png", SCTV13 HD - Phụ nữ & Gia đình
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/84/logo26072108_sctv14-hd.png", SCTV14 HD - Phim Việt
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png", SCTV16 HD - Phim nước ngoài đặc sắc
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png", SCTV18 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/222/logo26072108_sctv19-hd.png", SCTV19 HD
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png", SCTV20 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png", SCTV21 HD
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/108/logo26072108_sctv-phimTHHD.png", SCTV HD Phim Tổng Hợp
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://image.viettimes.vn/1200x630/Uploaded/2023/aohuooh/2021_09_06/photo-4-1542761352329294100586-9959.jpg", TVB Việt Nam
+https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
+
+
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_165655813369.png", An Giang
 https://code.vthanhtivi.pw/getlink/tv360/35/2.m3u8
 #https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
