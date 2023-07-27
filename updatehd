@@ -88,8 +88,8 @@ https://code.vthanhtivi.pw/getlink/mytv/398/hd.m3u8
 https://livecdn.fptplay.net/sdb/vtc8_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtc9hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc9_165649347338.png", VTC9
-https://code.vthanhtivi.pw/getlink/mytv/399/hd.m3u8
-#https://livecdn.fptplay.net/hda3/vtc9_2000.stream/chunklist.m3u8
+http://14.187.237.144:8080/sctv/s5/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtc9/index.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/399/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtc10hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_165649435487.png", VTC10
 https://code.vthanhtivi.pw/getlink/mytv/29/hd.m3u8
