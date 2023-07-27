@@ -334,19 +334,24 @@ http://116.102.219.35:8080/sctv/s9/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #https://sg.tinchuanchuaanh.com/SCTV9/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv10hd" tvg-logo="https://static-stage.tv24.vn/channel/115/logo26072108_sctv10.png", SCTV10
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
+http://14.187.237.144:8080/sctv/s1/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv10/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://static-stage.tv24.vn/channel/130/logo26072108_sctv11-hd.png", SCTV11 HD
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+http://27.68.65.143:8080/sctv/s5/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctv11/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv12hd" tvg-logo="https://static-stage.tv24.vn/channel/17/logo26072108_sctv12-hd.png", SCTV12 HD - Du Lịch
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+http://27.68.65.143:8080/sctv/s1/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/channel/sctv12/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv13hd" tvg-logo="https://static-stage.tv24.vn/channel/114/logo26072108_sctv13-hd.png", SCTV13 HD - Phụ nữ & Gia đình
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+http://27.68.65.143:8080/sctv/s5/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/channel/sctv13/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv14hd" tvg-logo="https://static-stage.tv24.vn/channel/84/logo26072108_sctv14-hd.png", SCTV14 HD - Phim Việt
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
+http://14.187.237.144:8080/sctv/s10/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_w1706953404_b1692000.m3u8
+#https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png", SCTV16 HD - Phim nước ngoài đặc sắc
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
