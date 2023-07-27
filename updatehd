@@ -315,11 +315,11 @@ http://115.73.138.147:8080/sctv/s7/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 #https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 FHD
-https://1117979683.vnns.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+http://115.73.138.147:8080/sctv/s11/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv6/index.m3u8
+#https://1117979683.vnns.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 HD
-http://115.73.138.147:8080/sctv/s11/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/channel/sctv6/index.m3u8
-#https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
+https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="sctv7hd" tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png", SCTV7 HD - Sân Khấu
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
