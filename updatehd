@@ -236,7 +236,8 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/27/auto.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onbibi1.jpg", ON BiBi - VTVCab8
-https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
+http://116.102.219.35:8080/sctv/s1/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/infomoi2.jpg", ON Info TV - VTVCab9
 https://code.vthanhtivi.pw/getlink/tv360/189/0.m3u8
