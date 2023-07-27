@@ -354,16 +354,20 @@ http://14.187.237.144:8080/sctv/s10/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.v
 #https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
 
 #EXTINF:-1 tvg-id="sctv16hd" tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png", SCTV16 HD - Phim nước ngoài đặc sắc
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+http://27.68.65.143:8080/sctv/s10/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/channel/sctv16/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv18hd" tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png", SCTV18 HD
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+http://115.73.138.147:8080/sctv/s2/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/channel/sctv18/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv19hd" tvg-logo="https://static-stage.tv24.vn/channel/222/logo26072108_sctv19-hd.png", SCTV19 HD
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+http://14.187.237.144:8080/sctv/s13/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
+#https://e8.endpoint.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv20hd" tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png", SCTV20 HD
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+http://116.102.219.35:8080/sctv/s9/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv20/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv20hd" tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png", SCTV21 HD
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8
