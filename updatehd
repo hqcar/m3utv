@@ -330,7 +330,8 @@ http://27.68.65.143:8080/sctv/s5/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" tvg-logo="https://static-stage.tv24.vn/channel/129/logo26072108_sctv9-hd.png", SCTV9 HD - Phim Châu Á
-https://sg.tinchuanchuaanh.com/SCTV9/index.m3u8
+http://116.102.219.35:8080/sctv/s9/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+#https://sg.tinchuanchuaanh.com/SCTV9/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv10hd" tvg-logo="https://static-stage.tv24.vn/channel/115/logo26072108_sctv10.png", SCTV10
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
