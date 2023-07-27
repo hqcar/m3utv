@@ -322,7 +322,8 @@ http://115.73.138.147:8080/sctv/s11/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.v
 https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="sctv7hd" tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png", SCTV7 HD - Sân Khấu
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+http://116.102.219.35:8080/sctv/s4/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png", SCTV8 HD-VITV-Kinh tế Tài chính
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
