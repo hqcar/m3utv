@@ -299,7 +299,7 @@ http://115.73.163.164:8080/sctv/s7/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png", SCTV2 HD
-http://115.76.187.182:8080/sctv/s3/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8
+http://115.73.163.164:8080/sctv/s3/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" tvg-logo="https://static-stage.tv24.vn/channel/112/logo26072108_sctv3-hd.png", SCTV3 HD - SEE TV
