@@ -313,24 +313,24 @@ https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv1hd" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1 HD - Hài
-http://115.73.163.164:8080/sctv/s7/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+http://14.187.184.236:8080/sctv/s7/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png", SCTV2 HD
-http://115.73.163.164:8080/sctv/s3/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8
+http://14.187.184.236:8080/sctv/s3/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 #https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv3hd" tvg-logo="https://static-stage.tv24.vn/channel/112/logo26072108_sctv3-hd.png", SCTV3 HD - SEE TV
-#http://115.73.163.164:8080/sctv/s12/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8
-#https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 http://171.232.111.210:8080/sctv/s12/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+#https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sctv4hd" tvg-logo="https://static-stage.tv24.vn/channel/109/logo26072108_sctv4-hd.png", SCTV4 HD - Giải trí tổng hợp
-http://115.73.190.195:8080/sctv/s6/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
+http://14.187.184.236:8080/sctv/s10/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/channel/sctv4/index.m3u8
 #https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv5hd" tvg-logo="https://static-stage.tv24.vn/channel/11/logo26072108_sctv5.png", SCTV5 HD - SCJ
-http://115.73.190.195:8080/sctv/s7/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
+http://115.73.183.255:8080/sctv/s7/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/channel/sctv5/index.m3u8
 #https://e8.endpoint.cdn.sctvonline.vn/hls/sctv5/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6 FHD
@@ -341,7 +341,7 @@ http://14.187.194.4:8080/sctv/s11/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 https://live-ali4.tv360.vn/manifest/SCTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="sctv7hd" tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png", SCTV7 HD - Sân Khấu
-http://14.187.194.4:8080/sctv/s4/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/channel/sctv7/index.m3u8
+http://14.187.184.236:8080/sctv/s4/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/channel/sctv7/index.m3u8
 #https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv8hd" tvg-logo="https://static-stage.tv24.vn/channel/205/logo26072108_sctv8.png", SCTV8 HD-VITV-Kinh tế Tài chính
